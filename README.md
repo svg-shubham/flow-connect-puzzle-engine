@@ -41,7 +41,7 @@ Clone the repository:
 Bash
 
 git clone https://github.com/svg-shubham/flow-connect-puzzle-engine.git
-Open index.html in any modern browser.
+Open main.html in any modern browser.
 
 Author: Shubham (svg-shubham)
 
